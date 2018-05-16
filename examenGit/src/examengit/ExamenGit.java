@@ -15,7 +15,7 @@ public class ExamenGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("bienvenido al examen");
+        System.out.println("bienvenido al examen de github");
     }
     
 }
