@@ -17,6 +17,8 @@ public class ExamenGit {
     public static void main(String[] args) {
         System.out.println("bienvenido al examen de github");
         System.out.println("bienvenido al examen de github2");
+        System.out.println("bienvenido al examen de github3");
+        System.out.println("bienvenido al examen de github4");
         
         
     }
